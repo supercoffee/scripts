@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo `date`
+echo '1782) Comcast (Seattle, WA, United States) [175.56 km]'
+echo `speedtest-cli --server 1782 --simple`
